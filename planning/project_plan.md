@@ -1,6 +1,6 @@
 # Project Plan
 
-Pod Members: **Add Pod Members Names**
+Pod Members: **Winson Chen, Andy Cordero, Steven Salto**
 
 ## Problem Statement and Description
 
