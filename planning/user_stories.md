@@ -1,6 +1,6 @@
 # Project Proposal
 
-Pod Members: **Winson Chen, Steven Salto, Andy Cordero**
+Pod Members: **Add Pod Members Names**
 
 ## Problem Statement
 
@@ -8,13 +8,12 @@ Insert your groups problem statement and target audience.
 
 ## User Roles
 
-1. Customer: A user who wants to order a meal
-2. Deliverer: A user who picks up food from a restaurant and brings it to customers
-3. Restaurant: A user who can claim a restaurant and customize their profile
+Include at least at least 1, but no more than 3, user roles
 
 ## User Personas
 
-Include at least 2 personas per User Role
+1. I'm Winson from Queens, 20 male and I own a smartphone. I may order food 2-3 times a week depending on convenience(am I too busy to cook? is my order going to take long?). Potential pain points may include time to place order and finding food fast.
+2. Joseph is a 9 to 5 guy who slaves away at his computer alll daay. While he has money and an hour a day for lunch, he often feels most 
 
 ## User Stories
 
