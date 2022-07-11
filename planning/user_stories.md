@@ -1,6 +1,6 @@
 # Project Proposal
 
-Pod Members: **Add Pod Members Names**
+Pod Members: **Winson Chen, Steven Salto, Andy Cordero**
 
 ## Problem Statement
 
@@ -8,7 +8,9 @@ Insert your groups problem statement and target audience.
 
 ## User Roles
 
-Include at least at least 1, but no more than 3, user roles
+1. Customer: A user who wants to order a meal
+2. Deliverer: A user who picks up food from a restaurant and brings it to customers
+3. Restaurant: A user who can claim a restaurant and customize their profile
 
 ## User Personas
 
