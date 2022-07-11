@@ -15,7 +15,7 @@ Insert your groups problem statement and target audience.
 ## User Personas
 
 1. I'm Winson from Queens, 20 male and I own a smartphone. I may order food 2-3 times a week depending on convenience(am I too busy to cook? is my order going to take long?). Potential pain points may include time to place order and finding food fast.
-2. Joseph is a 9 to 5 guy who slaves away at his computer alll daay. While he has money and an hour a day for lunch, he often feels most 
+2. Joseph is a 9 to 5 guy who slaves away at his computer alll daay. While he has money and an hour a day for lunch, he wants to discover new ways to spice up his day. Potential pain points include deciding what to eat.
 
 ## User Stories
 
