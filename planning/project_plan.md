@@ -22,6 +22,32 @@ List all the pages and screens in the app. Include wireframes for at least 3 of 
 
 Describe your app's data model using diagrams or tables
 
+Users table
+
+|column name | type | description |
+|------------|------|-------------|
+| id | integer | primary key |
+| first_name | text | user's first name |
+| last_name | text | user's last name |
+| email | text | user's email |
+| phone_number | text | user's phone number |
+| password | text | user's password |
+| role | text | user's role (customer, deliverer, or restaurant) |
+| created_at | timestamp | timestamp when user was created |
+
+Orders table
+
+|column name | type | description |
+|------------|------|-------------|
+| id | integer | primary key |
+| restuarant_id | integer | id of the restaurant the delivery is from |
+| deliverer_id | integer | id of the deliverer who will make the delivery |
+| customer_id | integer | id of the customer |
+| order | array of obejcts | customer's order |
+| location | text | location to deliver food |
+
+
+
 ## Endpoints
 
 List the API endpoints you will need to implement.
