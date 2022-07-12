@@ -79,5 +79,4 @@ List the API endpoints you will need to implement.
 |   Delete  |   Delete      | Delete review             | 1 10        |
 
 
-
 ***Don't forget to set up your Issues, Milestones, and Project Board!***
