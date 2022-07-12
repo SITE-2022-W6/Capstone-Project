@@ -36,4 +36,4 @@ When there's not enough time to cook, or cooking is too much of a hassle, many p
 
 ## Wireframe (Bonus)
 
-[Insert link or image to your group's wireframe.](https://www.figma.com/file/whNSAgSpEBJOz6BflABgoI/Wireframe?node-id=0%3A1)
+[Wireframe Link](https://www.figma.com/file/whNSAgSpEBJOz6BflABgoI/Wireframe?node-id=0%3A1)
