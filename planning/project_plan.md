@@ -66,4 +66,13 @@ Reviews table
 
 List the API endpoints you will need to implement.
 
+|   CRUD    |   HTTP Verb   |   Description             | User stories|
+|-----------|---------------|---------------------------|              |
+|   Create  |   Post        | Creating a new account    | 1 10|
+|   Read    |   Get         | Get account info          | 1 10|
+|   Update  |   Put         | Update account details    | 1 10|
+|   Delete  |   Delete      | Delete account existence  | 1 10|
+
+
+
 ***Don't forget to set up your Issues, Milestones, and Project Board!***
