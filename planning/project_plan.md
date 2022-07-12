@@ -43,8 +43,22 @@ Orders table
 | restuarant_id | integer | id of the restaurant the delivery is from |
 | deliverer_id | integer | id of the deliverer who will make the delivery |
 | customer_id | integer | id of the customer |
-| order | array of obejcts | customer's order |
+| order | array of objects | customer's order |
 | location | text | location to deliver food |
+| created_at | timestamp | timestamp when order was created |
+
+Reviews table
+
+|column name | type | description |
+|------------|------|-------------|
+| id | integer | primary key |
+| rating | integer | rating for menu item |
+| review | text | optional review of the item |
+| image_urls | array of text | optional images to show with review |
+| restaurant_id | integer | id of the restaurant |
+| item_id | integer | id of the menu item |
+| customer_id | integer | id of the customer who wrote review |
+| created_at | timestamp | timestamp when review was created |
 
 
 
