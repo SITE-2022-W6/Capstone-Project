@@ -6,12 +6,12 @@ Cohort: **Workday**
 
 Team Member Names:**Winson Chen, Andy Cordero, Steven Salto**
 
-Mentors Names: **Insert Professional Mentor Names**
+Mentors Names: **Kris Quon**
 
 Project Code Repository Links
 
-* [Frontend Repo Link]()
-* [Backend Repo Link]()
+* [Frontend Repo Link](https://github.com/SITE-2022-W6/The-Foodie-Express-UI)
+* [Backend Repo Link](https://github.com/SITE-2022-W6/The-Foodie-Express-API)
 
 ## Project Overview
 
