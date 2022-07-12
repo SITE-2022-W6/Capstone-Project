@@ -23,7 +23,7 @@ When there's not enough time to cook, or cooking is too much of a hassle, many p
 
 ## User Stories
 
-1. As a customer, I want to find cheap food nearby so that I can enjoy a meal weven when I don't have a lot of money.
+1. As a customer, I want to find cheap food nearby so that I can enjoy a meal even when I don't have a lot of money.
 2. As a customer, I want to find new foods so that I can expand my palate and enjoy fads.
 3. As a customer, I want to find wholesome and inexpensive food so that I can eat out with my family even with rising costs.
 4. As a customer, I want to be able to see dishes that are similar so that I can learn about new dishes that I will enjoy.
