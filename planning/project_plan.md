@@ -69,14 +69,15 @@ List the API endpoints you will need to implement.
 |   CRUD    |   HTTP Verb   |   Description             | User stories|
 |-----------|---------------|---------------------------|-------------|
 |   Create  |   Post        | Creating a new account    | 1 10        |
+|   Create  |   Post        | Loggin in with password   | 1 10        |
 |   Read    |   Get         | Get account info          | 1 10        |
 |   Update  |   Put         | Update account details    | 1 10        |
-|   Delete  |   Delete      | Delete account existence(including re  | 1 10        |
-|   Create  |   Post        | Loggin in with password   | 1 10        |
-|   Create  |   Post        | Create a new order entry  | 1 10        |
+|   Delete  |   Delete      | Delete account existence  | 1 10        |
+|   Create  |   Post        | Create a new order        | 1 10        |
+|   Read    |   Get         | Get order details         | 1 10        |
 |   Delete  |   Delete      | Cancel an order           | 1 10        |
 |   Create  |   Post        | Create review             | 1 10        |
-|   Read    |   Get         | Get review info for displayiny  | 1 10        |
+|   Read    |   Get         | Get review info           | 1 10        |
 |   Update  |   Put         | Edit a review(comment, rating , etc.) | 1 10        |
 |   Delete  |   Delete      | Delete review             | 1 10        |
 
