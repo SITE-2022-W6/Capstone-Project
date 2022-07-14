@@ -68,18 +68,18 @@ List the API endpoints you will need to implement.
 
 |   CRUD    |   HTTP Verb   |   Description             | User stories|
 |-----------|---------------|---------------------------|-------------|
-|   Create  |   Post        | Creating a new account    | 1 10        |
-|   Create  |   Post        | Loggin in with password   | 1 10        |
-|   Read    |   Get         | Get account info          | 1 10        |
-|   Update  |   Put         | Update account details    | 1 10        |
-|   Delete  |   Delete      | Delete account existence  | 1 10        |
-|   Create  |   Post        | Create a new order        | 1 10        |
-|   Read    |   Get         | Get order details         | 1 10        |
-|   Delete  |   Delete      | Cancel an order           | 1 10        |
-|   Create  |   Post        | Create review             | 1 10        |
-|   Read    |   Get         | Get review info           | 1 10        |
-|   Update  |   Put         | Edit a review(comment, rating , etc.) | 1 10        |
-|   Delete  |   Delete      | Delete review             | 1 10        |
+|   Create  |   Post        | Creating a new account    | all        |
+|   Create  |   Post        | Logging in with password   | all        |
+|   Read    |   Get         | Get account info          | 5        |
+|   Update  |   Put         | Update account details    | 5        |
+|   Delete  |   Delete      | Delete account existence  | 4,5       |
+|   Create  |   Post        | Create a new order        | 1-5        |
+|   Read    |   Get         | Get order details         | 1-5, 8        |
+|   Delete  |   Delete      | Cancel an order           | 1-5        |
+|   Create  |   Post        | Create review             | 5        |
+|   Read    |   Get         | Get review info           | 4, 5        |
+|   Update  |   Put         | Edit a review(comment, rating , etc.) | 5       |
+|   Delete  |   Delete      | Delete review             | 4, 5        |
 
 
 ***Don't forget to set up your Issues, Milestones, and Project Board!***
