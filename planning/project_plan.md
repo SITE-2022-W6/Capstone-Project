@@ -82,7 +82,7 @@ List the API endpoints you will need to implement.
 |   CRUD    |   HTTP Verb   |   Description             | User stories|
 |-----------|---------------|---------------------------|-------------|
 |   Create  |   Post        | Creating a new account    | all        |
-|   Create  |   Post        | Logging in with password   | all        |
+|   Read    |   Get         | Logging in with password  | all        |
 |   Read    |   Get         | Get account info          | 5        |
 |   Update  |   Put         | Update account details    | 5        |
 |   Delete  |   Delete      | Delete account existence  | 4,5       |
