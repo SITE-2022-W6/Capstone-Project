@@ -6,8 +6,6 @@ Pod Members: **Winson Chen, Andy Cordero, Steven Salto**
 
 When there's not enough time to cook, or cooking is too much of a hassle, many people will choose to order food on a delivery app. These days, there are many apps that try to fill this niche, such as Uber Eats, Grubhub, Doordash, etc. However, with these apps also comes a multitude of different restaurants and dishes that can feel overwhelming. A solution to this problem would be to create a delivery app that also has a built in system where users can rate or comment on a specific food item, making it easier for a user to make an informed decision about a dish before they order it.
 
-
-
 ## User Roles and Personas
 
 User Roles
@@ -30,6 +28,20 @@ User Personas
 ## Pages/Screens
 
 List all the pages and screens in the app. Include wireframes for at least 3 of them.
+1. Landing Page
+2. Login Page
+3. Registration Page
+4. Customer Main Page
+![image](https://user-images.githubusercontent.com/48073370/179325737-026309b2-41d7-4636-9f48-3bb7b37f50e4.png)
+
+5. Detailed Restaurant View
+6. Detailed Item View
+![image](https://user-images.githubusercontent.com/48073370/179325678-96ee9665-885a-4958-ac33-932668f2f44e.png)
+
+7. Shopping Cart/Checkout
+8. Customer Profile Page
+![image](https://user-images.githubusercontent.com/48073370/179325780-2b8ccaf3-6fd5-4054-a1c2-e9db38c76a58.png)
+
 
 ## Data Model
 
