@@ -16,7 +16,7 @@ User Roles
 3. Restaurant: A user who can claim a restaurant and customize their profile
 
 User Personas
-1. I'm Winson from Queens, a 20 year old male and I own a smartphone. I may order food 2-3 times a week depending on convenience(Am I too busy to cook? Is my order going to take long?). Potential pain points may include having enough time to place an order and finding food fast.
+1. I'm Winson from New York, a 20 year old male and I own a smartphone. I may order food 2-3 times a week depending on convenience(Am I too busy to cook? Is my order going to take long?). Potential pain points may include having enough time to place an order and finding food fast.
 2. Joseph is a 9 to 5 guy who slaves away at his computer all day. While he has money and an hour a day for lunch, he wants to discover new ways to spice up his day. Potential pain points include deciding what to eat.
 
 ## User Stories
