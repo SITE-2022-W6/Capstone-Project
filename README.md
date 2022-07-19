@@ -4,9 +4,14 @@ SITE Course Year: **2022**
 
 Cohort: **Workday**
 
-Team Member Names:**Winson Chen, Andy Cordero, Steven Salto**
+Team Members:
+**Winson Chen
+Andy Cordero
+Steven Salto**
 
-Mentors Names: **Kris Quon**
+Mentors: 
+**Kris Quon** 
+**Michael Kaplan**
 
 Project Code Repository Links
 
