@@ -22,4 +22,5 @@ We did not manage to finish all of our tasks. We moved those tasks to the second
 The resources were helpful for the mst part, it gave us examples and guided us in planning our project. However, there was some confusion over how to set up the project boards and milestones, and that caused a bit of confusion when we had to restructure it.
 
 * Which features and user stories would you consider “at risk”? How will you change your plan if those items remain “at risk”?
+
 The features and user stories that are "at risk" are the ones that pertain to the restaurant and delivery users. Because we pivoted from our initial plan, those features may not be implemented.
