@@ -9,9 +9,7 @@ When there's not enough time to cook, or cooking is too much of a hassle, many p
 ## User Roles and Personas
 
 User Roles
-1. Customer: A user who wants to order a meal
-2. Deliverer: A user who picks up food from a restaurant and brings it to customers
-3. Restaurant: A user who can claim a restaurant and customize their profile
+1. Customer: A user who wants to see ratings and reviews on meals
 
 User Personas
 1. I'm Winson from New York, a 20 year old male and I own a smartphone. I may order food 2-3 times a week depending on convenience(Am I too busy to cook? Is my order going to take long?). Potential pain points may include having enough time to place an order and finding food fast.
@@ -19,7 +17,7 @@ User Personas
 
 ## User Stories
 
-1. As a customer, I want to find cheap food nearby so that I can enjoy a meal even when I don't have a lot of money.
+1. As a customer, I want to find a variety of food nearby so I can eat different things
 2. As a customer, I want to find new foods so that I can expand my palate and enjoy fads.
 3. As a customer, I want to find wholesome and inexpensive food so that I can eat out with my family even with rising costs.
 4. As a customer, I want to be able to see dishes that are similar so that I can learn about new dishes that I will enjoy.
@@ -98,13 +96,13 @@ List the API endpoints you will need to implement.
 |   Read    |   Get         | Get account info          | 5        |
 |   Update  |   Put         | Update account details    | 5        |
 |   Delete  |   Delete      | Delete account existence  | 4,5       |
-|   Create  |   Post        | Create a new order        | 1-5        |
-|   Read    |   Get         | Get order details         | 1-5, 8        |
-|   Delete  |   Delete      | Cancel an order           | 1-5        |
 |   Create  |   Post        | Create review             | 5        |
 |   Read    |   Get         | Get review info           | 4, 5        |
 |   Update  |   Put         | Edit a review(comment, rating , etc.) | 5       |
 |   Delete  |   Delete      | Delete review             | 4, 5        |
+|   Read    |   Get         | Get a list of restaurants | all         |
+|   Read    |   Get         | Get a menu for a restaurant | all       |
+|   Read    |   Get         | Get a specific item on a menu | all     |
 
 
 ***Don't forget to set up your Issues, Milestones, and Project Board!***
