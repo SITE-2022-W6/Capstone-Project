@@ -20,7 +20,7 @@ The main purpose of our project is to create a food review website that also has
 ## Related Work
 - Yelp
 - TripAdvisor
-- Doordash
+- OpenTable
 - Food review websites in general
 
 Our website will differ from them becasue users will be able to rate and comment on menu items, and will recommended restaurants
