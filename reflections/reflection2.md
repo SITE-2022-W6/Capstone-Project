@@ -5,7 +5,7 @@ Pod Members: **Winson Chen, Andy Cordero, Steven Salto**
 ## Reflection Questions
 
 * Name at least one successful thing this week.
-* 
+
 We are able to view a list of restaurants, get the menus for each restaurant, and see specific menu item details
 
 * What were some challenges you and/or your group faced this week?
