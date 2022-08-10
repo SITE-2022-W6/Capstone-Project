@@ -11,7 +11,8 @@ Steven Salto**
 
 Mentors: 
 **Kris Quon,** 
-**Michael Kaplan**
+**Michael Kaplan,**
+**and Andrew Ferguson**
 
 Project Code Repository Links
 
