@@ -14,7 +14,7 @@ We don't plan to change over the course of development. We'll start doing the sa
 
 * How helpful were the labs and weekly assignments in preparing you to create a capstone project? Be specific, what topics do you still have questions about that may or may not have been covered?
 
-we'll say that the laba are really helpfull when it comes to creating the project like implementing the backend to the frontend and connecting the postgres to the backend.
+We'll say that the labs are really helpfull when it comes to creating the project like implementing the backend to the frontend and connecting the postgres to the backend.
 
 * When planning for the capstone project, which resources were the most helpful? (i.e mentors, instructors & TAs, ideation process, pod syncs, wireframes, sprint planning, bug bash, practice demo day, etc.)
 
